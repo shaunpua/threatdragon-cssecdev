@@ -5,7 +5,11 @@
     "description": "General Instructions: Using the OWASP Threat Dragon Tool, recreate the given data flow diagram below. Your task is to use the correct symbols for all entities and draw the data flows and trust boundaries. Threats to the entities are not required. Submit an image file (jpg/png) of your data flow diagram output. Refer to the submission page for your deadline. Contact your instructor for any inquiries/clarifications (20pts)."
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "me"
+      }
+    ],
     "diagrams": [
       {
         "title": "td diagram",
